@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pkgmetadata SYSTEM "http://www.gentoo.org/dtd/metadata.dtd">
+<pkgmetadata>
+	<maintainer>
+		<email>carner09@dyc.edu</email>
+		<name>Ryan Carney</name>
+	</maintainer>
+	<longdescription lang="en">
+		Umplayer is a universal media player designed to play any media format, including CDs, DVDs, video streams, or even incomplete/damaged media files.
+	</longdescription>
+</pkgmetadata>
